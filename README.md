@@ -1,3 +1,3 @@
-# Strapi application
+# Overwatch draft tool API
 
-A quick description of your strapi application
+The goal of this project is to create an API that will allow the creation of several tools to help teams create strategies and synergies about Overwatch game.
