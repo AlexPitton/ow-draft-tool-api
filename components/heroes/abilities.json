@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_heroes_abilities",
+  "info": {
+    "name": "abilities",
+    "icon": "street-view"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "icon": {
+      "model": "file",
+      "via": "related",
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ],
+      "plugin": "upload",
+      "required": false,
+      "pluginOptions": {}
+    },
+    "feature": {
+      "type": "richtext"
+    }
+  }
+}
